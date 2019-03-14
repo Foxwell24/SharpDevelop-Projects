@@ -1,0 +1,6 @@
+C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
+C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Counter\bin\Debug\Counter.exe.config
+C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Counter\bin\Debug\Counter.exe
+C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Counter\bin\Debug\Counter.pdb
+C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Counter\obj\Debug\Counter.exe
+C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Counter\obj\Debug\Counter.pdb

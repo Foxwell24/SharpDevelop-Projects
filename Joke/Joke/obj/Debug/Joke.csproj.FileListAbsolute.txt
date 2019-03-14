@@ -1,0 +1,6 @@
+C:\Users\102675853\Documents\SharpDevelop Projects\Joke\Joke\bin\Debug\Joke.exe.config
+C:\Users\102675853\Documents\SharpDevelop Projects\Joke\Joke\bin\Debug\Joke.exe
+C:\Users\102675853\Documents\SharpDevelop Projects\Joke\Joke\bin\Debug\Joke.pdb
+C:\Users\102675853\Documents\SharpDevelop Projects\Joke\Joke\obj\Debug\Joke.csprojResolveAssemblyReference.cache
+C:\Users\102675853\Documents\SharpDevelop Projects\Joke\Joke\obj\Debug\Joke.exe
+C:\Users\102675853\Documents\SharpDevelop Projects\Joke\Joke\obj\Debug\Joke.pdb
