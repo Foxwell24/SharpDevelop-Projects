@@ -5,8 +5,7 @@ namespace FizzBuzz
 	class Program
 	{
 		public static void Main(string[] args)
-		{			
-			string Input;
+		{
 			float real = 0;
 			int notReal = 0;
 			int count = 0;
