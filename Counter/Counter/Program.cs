@@ -26,9 +26,6 @@ namespace Counter
 				
 				}
 			}
-
-		
-			
 			Console.ReadKey(true);
 		}
 	}
