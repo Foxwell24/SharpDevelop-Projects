@@ -1,0 +1,6 @@
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T3\bin\Debug\T3.exe.config
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T3\bin\Debug\T3.exe
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T3\bin\Debug\T3.pdb
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T3\obj\Debug\T3.csprojResolveAssemblyReference.cache
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T3\obj\Debug\T3.exe
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T3\obj\Debug\T3.pdb

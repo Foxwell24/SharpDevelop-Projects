@@ -1,0 +1,6 @@
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T2\bin\Debug\T2.exe.config
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T2\bin\Debug\T2.exe
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T2\bin\Debug\T2.pdb
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T2\obj\Debug\T2.csprojResolveAssemblyReference.cache
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T2\obj\Debug\T2.exe
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\T2\obj\Debug\T2.pdb

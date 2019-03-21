@@ -1,0 +1,6 @@
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\Week_04\bin\Debug\Week_04.exe.config
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\Week_04\bin\Debug\Week_04.exe
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\Week_04\bin\Debug\Week_04.pdb
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\Week_04\obj\Debug\Week_04.csprojResolveAssemblyReference.cache
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\Week_04\obj\Debug\Week_04.exe
+C:\Users\102675853\Documents\SharpDevelop Projects\Week_04\Week_04\obj\Debug\Week_04.pdb
