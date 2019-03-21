@@ -1,6 +1,0 @@
-C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Count 2\bin\Debug\Count 2.exe.config
-C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Count 2\bin\Debug\Count 2.exe
-C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Count 2\bin\Debug\Count 2.pdb
-C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Count 2\obj\Debug\Count 2.csprojResolveAssemblyReference.cache
-C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Count 2\obj\Debug\Count 2.exe
-C:\Users\102675853\Documents\SharpDevelop Projects\Counter\Count 2\obj\Debug\Count 2.pdb
