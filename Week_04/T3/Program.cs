@@ -6,39 +6,37 @@ namespace T3
 	{
 		public static void Main(string[] args)
 		{
-			
-			int counter;
-			int counter2;
+			int count;
+			int count2;
 			int userIntInput;
-			int space;
+			int ifLoop;
 			string name;
 			string userInput;
-						
-			counter = 0;
-			counter2 = 0;
-			space = 0;
-			name = "x";
+			string space;
 			
-			Console.WriteLine("Gimmi a number");
+			count = 0;
+			count2 = 0;
+			ifLoop = 0;
+			name = "x";
+			space = " ";
+			
+			Console.WriteLine("Gimmi number");
 			userInput = Console.ReadLine();
 			userIntInput = int.Parse(userInput);
 			
-			
-			while(counter < userIntInput) {
-				counter2 = userIntInput - counter;
+			while(count < userIntInput) {
+				
+				if(ifLoop < count) {
+					count2 = count;
 					
-				while(counter2 <= userIntInput) {
-					Console.Write(name);
-					counter2++;
+					while(count2 < count) {
+						Console.Write(space);
+						space = space + " ";
+						count2++;
+					}
+				ifLoop++;
 				}
-				counter++;
-				space = userIntInput;
-				while (space > 0)
-				{
-					Console.Write(" ");
-					space = space - counter;
-				}
-				Console.WriteLine();
+				
 			}
 			
 			Console.Write("Press any key to continue . . . ");
